@@ -54,5 +54,5 @@ indítás: json-server --watch db.json
     - fetch-el átlakítni a webáruházat
 
 
-
+asdasdasd
 
