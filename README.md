@@ -4,15 +4,17 @@
 
 indítás: json-server --watch db.json
 
+alsdmaséééééééééééééééééééééééé
+
 ```json
 
 ```
 
 
 # Webáruház átalakítás
-0. Mindezt úgy, githubbal együttműködve
+<!-- 0. Mindezt úgy, githubbal együttműködve
 [git parancsok](https://github.com/kovacsnandor/GitParancsok)
-    - github repo: webaruhaz létrehozás
+    - github repo: webaruhaz létrehozás 
     - leklónozás tokennel
     - user név és email lokális beállítása
     - webáruház bemásolása a helyi repóba, push
@@ -20,7 +22,7 @@ indítás: json-server --watch db.json
         - egy régi ág: 01_memoria
         - mindezt egy új ágban: 02_Json
         - folymatos commit: részfeladatok
-        - unána push
+        - unána push -->
 
 1. Adatszerkezet:
     - régi:
@@ -54,5 +56,13 @@ indítás: json-server --watch db.json
     - fetch-el átlakítni a webáruházat
 
 
-asdasdasd
+
+
+    token: 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
+
+    https://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@github.com/levyastar/
+webaruhazonallo.git
+
+
+
 
